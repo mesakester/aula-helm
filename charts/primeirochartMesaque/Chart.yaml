@@ -1,0 +1,10 @@
+apiVersion: v2
+name: primeirochartMesaque
+description: meu primeirochartMesaque
+
+type: application
+icon: https://icon-icons.com/pt/icone/Xbox/102593
+
+version: 0.1.0
+
+appVersion: "1.16.0"
